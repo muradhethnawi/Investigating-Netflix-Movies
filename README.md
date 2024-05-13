@@ -1,4 +1,6 @@
 # Investigating-Netflix-Movies
+![5fea25c8-0975-4280-9bfe-df2ed7c1064b](https://github.com/muradmashhour/Investigating-Netflix-Movies/assets/143474411/767a03a7-e3d0-46c4-a960-0c315736be9c)
+
 Movie popcorn on red background
 Netflix! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
 
